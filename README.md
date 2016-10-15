@@ -12,7 +12,7 @@
 		<meta http-equiv="Expires" content="0">
 		//设置html不进行缓存
 		<script src="rem-dpr.min.js" type="text/javascript" charset="utf-8"></script>
-		//移动端 rem 适配，详见：[https://github.com/Theoton/rem](https://github.com/Theoton/rem)
+		//移动端 rem 适配，详见https://github.com/Theoton/rem
 	</head>
 
 	<body>
@@ -28,4 +28,3 @@
 	</body>
 </html>
 ```
-
